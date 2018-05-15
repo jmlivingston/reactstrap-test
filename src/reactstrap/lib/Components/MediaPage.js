@@ -16,6 +16,8 @@ import MediaAlignmentExampleSource from '../examples/MediaAlignment.txt';
 import MediaListExample from '../examples/MediaList';
 import MediaListExampleSource from '../examples/MediaList.txt';
 
+import '../../../styles/components/_media.scss'
+
 export default class MediaPage extends React.Component {
   render() {
     return (

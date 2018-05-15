@@ -16,6 +16,8 @@ import PaginationSizingLargeExampleSource from '../examples/PaginationSizingLarg
 import PaginationSizingSmallExample from '../examples/PaginationSizingSmall';
 import PaginationSizingSmallExampleSource from '../examples/PaginationSizingSmall.txt';
 
+import '../../../styles/components/_pagination.scss'
+
 export default class PaginationPage extends React.Component {
   render() {
     return (

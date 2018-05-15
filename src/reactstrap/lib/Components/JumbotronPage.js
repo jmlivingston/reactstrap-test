@@ -9,6 +9,8 @@ import JumbotronFluidExample from "../examples/JumbotronFluid";
 import JumbotronExampleSource from '../examples/Jumbotron.txt';
 import JumbotronFluidExampleSource from '../examples/JumbotronFluid.txt';
 
+import '../../../styles/components/_jumbotron.scss'
+
 export default class JumbotronPage extends React.Component {
   render() {
     return (

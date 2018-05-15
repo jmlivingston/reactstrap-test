@@ -30,6 +30,8 @@ import CardGroupsExampleSource from '../examples/CardGroups.txt';
 import CardDecksExampleSource from '../examples/CardDecks.txt';
 import CardColumnsExampleSource from '../examples/CardColumns.txt';
 
+import '../../../styles/components/_card.scss'
+
 export default class CardPage extends React.Component {
   render() {
     return (

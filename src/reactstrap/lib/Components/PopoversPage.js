@@ -8,6 +8,8 @@ import PopoverExampleSource from '../examples/Popover.txt';
 import PopoverExampleMulti from '../examples/PopoverMulti';
 import PopoverExampleMultiSource from '../examples/PopoverMulti.txt';
 
+import '../../../styles/components/_popover.scss'
+
 export default class PopoversPage extends React.Component {
   render() {
     return (

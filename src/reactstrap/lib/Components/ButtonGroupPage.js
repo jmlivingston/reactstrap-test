@@ -18,6 +18,8 @@ import ButtonGroupExampleSource from '../examples/ButtonGroup.txt';
 import ButtonToolbarExample from '../examples/ButtonToolbar';
 import ButtonToolbarExampleSource from '../examples/ButtonToolbar.txt';
 
+import '../../../styles/components/_buttons.scss'
+import '../../../styles/components/_button-group.scss'
 
 export default class ButtonGroupPage extends React.Component {
   constructor(props) {

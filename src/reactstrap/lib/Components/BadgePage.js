@@ -19,6 +19,8 @@ import BadgeVariationsExampleSource from '../examples/BadgeVariations.txt';
 import BadgeLinksExample from '../examples/BadgeLinks';
 import BadgeLinksExampleSource from '../examples/BadgeLinks.txt';
 
+import '../../../styles/components/_badge.scss'
+
 export default class BadgesPage extends React.Component {
   render() {
     return (

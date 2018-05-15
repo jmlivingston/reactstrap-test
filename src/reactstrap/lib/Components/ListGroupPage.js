@@ -17,6 +17,8 @@ import ListGroupAnchorsAndButtonsExampleSource from '../examples/ListGroupAnchor
 import ListGroupContextualClassesExampleSource from '../examples/ListGroupContextualClasses.txt';
 import ListGroupCustomContentExampleSource from '../examples/ListGroupCustomContent.txt';
 
+import '../../../styles/components/_list-group.scss'
+
 export default class ListGroupPage extends React.Component {
   render() {
     return (

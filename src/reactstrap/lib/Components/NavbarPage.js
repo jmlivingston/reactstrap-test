@@ -9,6 +9,9 @@ import NavbarExampleSource from '../examples/Navbar.txt';
 import NavbarTogglerExample from '../examples/NavbarToggler';
 import NavbarTogglerExampleSource from '../examples/NavbarToggler.txt';
 
+import '../../../styles/components/_nav.scss'
+import '../../../styles/components/_navbar.scss'
+
 export default class NavsPage extends React.Component {
   render() {
     return (

@@ -19,6 +19,8 @@ import ProgressMultiExampleSource from '../examples/ProgressMulti.txt';
 import ProgressMaxExample from '../examples/ProgressMax';
 import ProgressMaxExampleSource from '../examples/ProgressMax.txt';
 
+import '../../../styles/components/_progress.scss'
+
 export default class ProgressPage extends React.Component {
   render() {
     return (

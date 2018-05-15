@@ -13,6 +13,8 @@ import ButtonOutlineSource from '../examples/ButtonOutline.txt';
 import ButtonStateful from '../examples/ButtonStateful';
 import ButtonStatefulSource from '../examples/ButtonStateful.txt';
 
+import '../../../styles/components/_buttons.scss'
+
 export default class ButtonsPage extends React.Component {
   render() {
     return (

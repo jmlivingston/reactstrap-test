@@ -10,6 +10,8 @@ import BreadcrumbExampleSource from '../examples/Breadcrumb.txt';
 import BreadcrumbNoListExample from '../examples/BreadcrumbNoList';
 import BreadcrumbNoListExampleSource from '../examples/BreadcrumbNoList.txt';
 
+import '../../../styles/components/_breadcrumb.scss'
+
 export default class BreadcrumbsPage extends React.Component {
   render() {
     return (

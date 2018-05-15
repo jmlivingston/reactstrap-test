@@ -10,6 +10,8 @@ import CarouselUncontrolledExampleSource from '../examples/CarouselUncontrolled.
 import CarouselCustomTagExample from '../examples/CarouselCustomTag';
 import CarouselCustomTagExampleSource from '../examples/CarouselCustomTag.txt';
 
+import '../../../styles/components/_carousel.scss'
+
 export default class CarouselPage extends React.Component {
   render() {
     return (

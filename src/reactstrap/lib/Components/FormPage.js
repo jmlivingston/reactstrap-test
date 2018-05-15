@@ -34,6 +34,9 @@ import LabelHiddenExampleSource from '../examples/LabelHidden.txt';
 import CustomControlsExample from '../examples/CustomControls';
 import CustomControlsExampleSource from '../examples/CustomControls.txt';
 
+import '../../../styles/components/_forms.scss'
+import '../../../styles/components/_custom-forms.scss'
+
 export default class FormPage extends React.Component {
   render() {
     return (

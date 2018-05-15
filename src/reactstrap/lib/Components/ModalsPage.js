@@ -21,6 +21,9 @@ import ModalFadelessExampleSource from '../examples/ModalFadeless.txt';
 import ModalExternalExample from '../examples/ModalExternal';
 import ModalExternalExampleSource from '../examples/ModalExternal.txt';
 
+import '../../../styles/components/_close.scss'
+import '../../../styles/components/_modal.scss'
+
 export default class ModalsPage extends React.Component {
   render() {
     return (

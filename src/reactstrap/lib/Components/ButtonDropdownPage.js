@@ -14,6 +14,9 @@ import SectionTitle from '../UI/SectionTitle';
 
 import ButtonDropdownExampleSource from '../examples/ButtonDropdown.txt';
 
+import '../../../styles/components/_buttons.scss'
+import '../../../styles/components/_dropdown.scss'
+
 export default class ButtonDropdownPage extends React.Component {
   constructor(props) {
     super(props);

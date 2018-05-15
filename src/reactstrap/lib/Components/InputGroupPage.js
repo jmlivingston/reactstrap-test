@@ -14,6 +14,8 @@ import ButtonExampleSource from '../examples/InputGroupButton.txt';
 import ButtonShorthandExample from '../examples/InputGroupButtonShorthand';
 import ButtonShorthandExampleSource from '../examples/InputGroupButtonShorthand.txt';
 
+import '../../../styles/components/_input-group.scss'
+
 export default class InputGroupPage extends React.Component {
   constructor(props) {
     super(props);

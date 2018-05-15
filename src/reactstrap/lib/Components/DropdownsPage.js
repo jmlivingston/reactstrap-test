@@ -20,6 +20,8 @@ import DropdownExampleSource from '../examples/Dropdown.txt';
 import CustomDropdownExampleSource from '../examples/CustomDropdown.txt';
 import DropdownUncontrolledExampleSource from '../examples/DropdownUncontrolled.txt';
 
+import '../../../styles/components/_badge.scss'
+
 export default class DropdownPage extends React.Component {
   constructor(props) {
     super(props);

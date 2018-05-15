@@ -8,6 +8,8 @@ import SectionTitle from '../UI/SectionTitle';
 import FadeExample from '../examples/Fade';
 import FadeExampleSource from '../examples/Fade.txt';
 
+import '../../../styles/components/_badge.scss'
+
 export default class FadePage extends React.Component {
   render() {
     return (

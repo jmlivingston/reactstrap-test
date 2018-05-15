@@ -12,6 +12,8 @@ import NavTabsExampleSource from '../examples/NavTabs.txt';
 import NavPillsExample from '../examples/NavPills';
 import NavPillsExampleSource from '../examples/NavPills.txt';
 
+import '../../../styles/components/_nav.scss'
+
 export default class NavssPage extends React.Component {
   render() {
     return (

@@ -20,6 +20,8 @@ import AlertDismissExampleSource from '../examples/AlertDismiss.txt';
 import AlertUncontrolledDismissExample from '../examples/AlertUncontrolledDismiss';
 import AlertUncontrolledDismissExampleSource from '../examples/AlertUncontrolledDismiss.txt';
 
+import '../../../styles/components/_alert.scss'
+
 export default class AlertsPage extends React.Component {
   render() {
     return (

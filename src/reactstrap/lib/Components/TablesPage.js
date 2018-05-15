@@ -22,6 +22,8 @@ import TableResponsiveExampleSource from '../examples/TableResponsive.txt';
 import TableSizingExampleSource from '../examples/TableSizing.txt';
 import TableStripedExampleSource from '../examples/TableStriped.txt';
 
+import '../../../styles/components/_tables.scss'
+
 export default class TablesPage extends React.Component {
   render() {
     return (

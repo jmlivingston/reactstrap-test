@@ -6,6 +6,8 @@ import PageTitle from '../UI/PageTitle';
 import TabsExample from '../examples/Tabs';
 import TabsExampleSource from '../examples/Tabs.txt';
 
+import '../../../styles/components/_badge.scss'
+
 export default function TabsPage() {
   return (
     <div>

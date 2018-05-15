@@ -12,6 +12,8 @@ import TooltipExampleMultiSource from '../examples/TooltipMulti.txt';
 import TooltipExampleUncontrolled from '../examples/TooltipUncontrolled';
 import TooltipExampleUncontrolledSource from '../examples/TooltipUncontrolled.txt';
 
+import '../../../styles/components/_tooltip.scss'
+
 export default class TooltipsPage extends React.Component {
   render() {
     return (

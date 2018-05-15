@@ -3,6 +3,10 @@ import { Link } from 'react-router';
 import PropTypes from 'prop-types';
 import { Container, Row, Col, Nav, NavItem, NavLink } from 'reactstrap';
 
+// import '../../../styles/components/_forms.scss'
+// import '../../../styles/components/_nav.scss'
+// import '../../../styles/components/_navbar.scss'
+
 const propTypes = {
   children: PropTypes.node,
   items: PropTypes.array,
